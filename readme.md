@@ -4,10 +4,13 @@
 
 ### [Day 01](https://adventofcode.com/2022/day/1)
 [problem](https://adventofcode.com/2022/day/1) / [solution](./day01)
+
 Language used : TypeScript
 
 ### [Day 02](https://adventofcode.com/2022/day/2)
 [problem](https://adventofcode.com/2022/day/2) / [solution](./day02)
+
+Language used : C
 
 ### [Day 03](https://adventofcode.com/2022/day/3)
 [problem](https://adventofcode.com/2022/day/3) / [solution](./day03)
