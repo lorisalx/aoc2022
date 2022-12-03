@@ -15,6 +15,8 @@ Language used : C
 ### [Day 03](https://adventofcode.com/2022/day/3)
 [problem](https://adventofcode.com/2022/day/3) / [solution](./day03)
 
+Language used : Python
+
 ### [Day 04](https://adventofcode.com/2022/day/4)
 [problem](https://adventofcode.com/2022/day/4) / [solution](./day04)
 
