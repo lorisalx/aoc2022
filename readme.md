@@ -20,6 +20,8 @@ Language used : Python
 ### [Day 04](https://adventofcode.com/2022/day/4)
 [problem](https://adventofcode.com/2022/day/4) / [solution](./day04)
 
+Language used : Java
+
 ### [Day 05](https://adventofcode.com/2022/day/5)
 [problem](https://adventofcode.com/2022/day/5) / [solution](./day05)
 
